@@ -6,6 +6,7 @@ Completed days:
 - 2
 - 3
 - 4
+- 5 (Only part 1)
 - ...
 - 6
 - ...
